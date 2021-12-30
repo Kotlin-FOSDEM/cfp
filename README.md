@@ -1,5 +1,7 @@
 # Kotlin DevRoom - FOSDEM 2022 - Call For Proposal 
 
+⚠️ **Important: We extended the CFP deadline to January 7th 2022**
+
 Hello fellow Kotliners,
 
 We're back with another edition of the Kotlin DevRoom @ FOSDEM 2022. We can't be more than excited to offer the Kotlin open-source community a space to virtually meet and be represented. Looking forward to connecting with you all on the 6th of February 2022 online.
@@ -72,7 +74,7 @@ Create a Pentabarf account if, and only if, you don't already have one from a pr
 ## Important dates
 
 - Call for papers available: 1st December 2021
-- Call for participation closes: 27th December 2021
+- Call for participation closes: 7th January 2022
 - Devroom schedule available: 15th January 2022
 - Devroom day: Sunday 6th February 2022 (09:00 to 17:00 CET)
 
